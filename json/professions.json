@@ -4,7 +4,7 @@
         "logo": "ajout_med/Endocrinologue/logo-med.png",
         "personnel": [
             {
-                "name": "Dr Roger ROULIER",
+                "name": "DR Roger ROULIER",
                 "documents": [],
                 "doctolib": "https://www.doctolib.fr/endocrinologue/ille-sur-tet/roger-roulier",
                 "texts": [
@@ -47,7 +47,7 @@
                     }
                 ],
                 "pdf": null,
-                "image": "ajout_med/Endocrinologue/Dr Roger ROULIER/logo-med.png"
+                "image": "ajout_med/Endocrinologue/DR Roger ROULIER/logo-med.png"
             }
         ],
         "type": "general"
